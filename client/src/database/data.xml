@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<congty>
+<phongban id="002">
+<ten>Tài chính</ten>
+<matkhau>123</matkhau>
+</phongban>
+<phongban id="003">
+<ten>Kế Toán</ten>
+<matkhau>12345</matkhau>
+</phongban>
+<phongban id="0025">
+<ten>Kế hoạch</ten>
+<matkhau>123</matkhau>
+</phongban>
+<phongban id="005">
+<ten/>
+<matkhau/>
+</phongban>
+<phongban id="006">
+<ten>Marketing </ten>
+<matkhau>123</matkhau>
+</phongban>
+<phongban id="123">
+<ten>GĐ</ten>
+<matkhau>123</matkhau>
+</phongban>
+</congty>
